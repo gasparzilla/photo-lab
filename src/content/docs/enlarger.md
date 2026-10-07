@@ -1,6 +1,6 @@
 ---
 title: How to Use the Enlarger
-description: Step-by-step instructions for the darkroom enlarger.
+description: Instructions for the darkroom enlarger.
 ---
 ## Enlargement instructions:
 
@@ -11,8 +11,8 @@ Instructions for enlarging photos!
 Before starting the process, you must be sure to prepare the room:
 
 1. **Light Leaks:** turn off the lights inside the dark room and close de door, check if any light is coming trhough the window or the door and cover any light leaks coming from outside.
-
-### Check materials
+2. **Check materials:**
+3. **Prepare chemicals:**
 
 
 ### Prepare the enlarger:
@@ -23,5 +23,8 @@ Before starting the process, you must be sure to prepare the room:
 
 ### Engorgulate
 
+#### Test Strip
+
+#### The real deal
 1. Turn off the lights
 

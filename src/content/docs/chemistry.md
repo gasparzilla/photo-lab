@@ -1,6 +1,6 @@
 ---
 title: Chemistry
-description: Instructions on chemical proceses required for the lab.
+description: Instructions on chemical processes required for the lab.
 ---
 ## Coffenol:
 
@@ -35,6 +35,10 @@ The instructions for mixing the ingredients are the same for all recipes:
 3. **Add sodium carbonate solution to tray:** Dump contents of graduated cylinder into <span class="tray tray-red">red tray</span>.
 4. **Dissolve ascorbic acid in warm water:** Dissolve the necessary ascorbic acid in 200 ml of room temperature water.
 5. **Add sodium carbonate solution to tray:** Dump contents of graduated cylinder into <span class="tray tray-red">red tray</span>.
-6. **Disolve instant coffee in warm water:** Dissolve the instant coffee in 40nm0 ml of room temperature water.
+6. **Dissolve instant coffee in warm water:** Dissolve the instant coffee in 40nm0 ml of room temperature water.
 7. **Add instant coffee solution to tray:** Dump contents of graduated cylinder into <span class="tray tray-red">red tray</span>.
 8. **Mix contents of tray:** Move the <span class="tray tray-red">red tray</span> to ensure everything is thoroughly mixed.
+
+## Homemade fixer:
+
+_may be a good idea to buy and test home made fixer?_
