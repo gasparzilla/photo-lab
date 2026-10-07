@@ -9,8 +9,12 @@ export default defineConfig({
   base: '/photo-lab',
   integrations: [
     starlight({
-      title: 'Photo Club',
+      title: 'Photo Lab',
       plugins: [lucode()],
+        customCss: [
+            '@fontsource/instrument-serif/400.css',
+            './src/styles/custom.css',
+        ],
       sidebar: [
         { label: 'Darkroom', items: [{ label: 'Chemistry', slug: 'chemistry' },{ label: 'Using the Enlarger', slug: 'enlarger' }] },
         { label: 'Equipment', items: [{ label: 'Inventory', slug: 'inventory' }] },

@@ -1,0 +1,77 @@
+:root {
+  --sl-font: 'Martian Mono', ui-monospace, Menlo, Consolas, monospace;
+  --sl-font-mono: var(--sl-font);
+}
+
+body,
+button,
+input {
+  font-family: var(--sl-font);
+}
+
+/* H4 and below: mono */
+h4,
+h5,
+h6 {
+  font-family: var(--sl-font);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+/* H3 and above: instrument serif */
+h1,
+h2,
+h3{
+  font-family: 'Instrument Serif', Georgia, serif;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+}
+
+h1 { font-size: 3.5rem; }
+h2 { font-size: 3rem; }
+h3 { font-size: 2.5rem; }
+
+h1#_top {
+  font-size: 4rem;
+  line-height: 1.05;
+  letter-spacing: -0.01em;
+}
+
+/* Page Title */
+.site-title,
+.site-title span {
+  font-family: 'Instrument Serif', Georgia, serif;
+  font-size: 3rem;
+  font-weight: 800;
+  letter-spacing: 0.01em;
+  transform: skewX(-12deg);
+}
+
+.tray {
+  display: inline-block;
+  padding: 0.05em 0.6em;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  font-size: 0.9em;
+  font-weight: 600;
+  line-height: 1.5;
+  white-space: nowrap;
+}
+
+.tray-red {
+  background: #b91c1c;
+  color: #ffffff;
+  border-color: #7f1d1d;
+}
+
+.tray-gray {
+  background: #6b7280;
+  color: #ffffff;
+  border-color: #374151;
+}
+
+.tray-white {
+  background: #ffffff;
+  color: #111827;
+  border-color: #9ca3af;
+}
