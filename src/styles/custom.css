@@ -3,6 +3,11 @@
   --sl-font: 'Martian Mono', ui-monospace, Menlo, Consolas, monospace;
   --sl-font-mono: var(--sl-font);
   --font-display: 'Instrument Serif', Georgia, serif;
+  --sl-nav-height: 4rem;
+}
+
+:root[data-theme='dark'] .site-title img {
+  filter: invert(1);
 }
 
 body,
@@ -49,11 +54,14 @@ h6 {
   font-size: 4rem;
   font-weight: 800;
   letter-spacing: 0.01em;
-}
-
-.site-title {
-  display: inline-block; /* required for skew */
   transform: skewX(-30deg);
+  margin-left: 1rem;
+}
+.site-title img {
+  height: 3rem !important;
+  max-height: none;
+  width: auto;
+  transform: skewX(30deg);
 }
 
 /* Tray badges */

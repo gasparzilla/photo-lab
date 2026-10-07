@@ -16,7 +16,7 @@ Before starting the process, you must be sure to prepare the room:
     
     - <span class="tray tray-red">Developer:</span> the developer always goes into the <span class="tray tray-red">red tray</span>
     - <span class="tray tray-gray">Stop bath:</span> the stop bath always goes into the <span class="tray tray-gray">gray tray</span>
-    - <span class="tray tray-white">Fixer:</span> the developer always goes into the <span class="tray tray-white">white tray</span>
+    - <span class="tray tray-white">Fixer:</span> the fixer always goes into the <span class="tray tray-white">white tray</span>
 
     You will need to follow different instructions depending on the development process you will use:
    - **Coffenol**: follow the instructions available in the [Chemistry/Coffenol](/photo-lab/chemistry/#coffenol) page for the developer, use water as stop bath and either Jamarca or Ilford fixer.

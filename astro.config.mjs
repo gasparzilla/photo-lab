@@ -10,6 +10,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'Photo Lab',
+      logo: { src: './src/assets/photo_lab_logo.svg' },
       plugins: [lucode()],
       customCss: [
         '@fontsource/instrument-serif/400.css',
