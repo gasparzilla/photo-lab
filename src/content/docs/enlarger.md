@@ -33,13 +33,20 @@ Preparing the enlarger and everything around it
 2. **Connect everything:**
     - **Safelight:** Connect the safelight and place it under the table, I don't know why but it feels safer and the light is enough after a couple of minutes. We should definitely add a switch to the safelight. 
     - **Timer:** Connect the timer that powers the enlarger and turn it on flipping the switch in the back.
-3. **Negative**
-
 
 ### Engorgulating
 
-#### Test Strip
+#### ContactsSheet
+
+<span style="color: #14b347;">This process has not been tested, we need a small suqre piece of glass to flatten the negatives against the paper. Instructions found on https://www.ilfordphoto.com/making-a-contact-sheet/ seem sensible.</span>_
+
+#### Test strip
+
+Once the negative you will enlarge has been selected, 
 
 #### The real deal
+
+Once everything is ready _(you have your negative and filter in place, the image is focused, the exposure time is set_
+
 1. Turn off the lights
 

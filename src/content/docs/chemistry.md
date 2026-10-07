@@ -45,7 +45,7 @@ _may be a good idea to buy and test homemade fixer? for now just use Jamarca or 
 
 ## Ilford
 
-The instructions for Ilford chemicals are pretty straightforward: dilute the chemicals in 20-25 degrees celsius water and pour them on their corresponding trays. All instructions are for 1 liter of solution.
+The instructions for Jamarca chemicals are pretty straightforward: dilute the chemicals in 20-30 degrees celsius water and pour them on their corresponding trays. All instructions are for 1 liter of solution and.
 
 1. <span class="tray tray-red">Developer:</span> Dilute 100 ml of Ilford Multigrade Developer in 900 ml of water. Pour it into the <span class="tray tray-red">red tray</span>.
 2. <span class="tray tray-gray">Stop Bath:</span> Dilute 50 ml of Ilford Multigrade Developer in 950 ml of water. Pour it into the <span class="tray tray-gray">gray tray</span>.
