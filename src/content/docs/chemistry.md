@@ -4,7 +4,7 @@ description: Instructions on chemical proceses required for the lab.
 ---
 ## Coffenol:
 
-Home-made alternative to commercially available developers using "household" materials.
+Homemade alternative to commercially available developers using "household" materials.
 
 ### Ingredients
 
@@ -37,4 +37,4 @@ The instructions for mixing the ingredients are the same for all recipes:
 5. **Add sodium carbonate solution to tray:** Dump contents of graduated cylinder into <span class="tray tray-red">red tray</span>.
 6. **Disolve instant coffee in warm water:** Dissolve the instant coffee in 40nm0 ml of room temperature water.
 7. **Add instant coffee solution to tray:** Dump contents of graduated cylinder into <span class="tray tray-red">red tray</span>.
-8. **Mix contents of tray:** Move the <span class="tray tray-red">red tray</span> to ensure everything is thoroughly mixed
+8. **Mix contents of tray:** Move the <span class="tray tray-red">red tray</span> to ensure everything is thoroughly mixed.

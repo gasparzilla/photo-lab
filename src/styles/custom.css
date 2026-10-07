@@ -22,13 +22,15 @@ h3 {
 
 h1 { font-size: 3.5rem; }
 h2 { font-size: 3rem; }
-h3 { font-size: 2.5rem; }
+h3 { font-size: 2rem; }
 
 /* Page title (from frontmatter) */
 h1#_top {
   font-size: 4rem;
   line-height: 1.05;
   letter-spacing: -0.01em;
+  display: inline-block; /* required for skew */
+  transform: skewX(-30deg);
 }
 
 /* H4-H6: mono */
@@ -44,14 +46,14 @@ h6 {
 .site-title,
 .site-title span {
   font-family: var(--font-display);
-  font-size: 3rem;
+  font-size: 4rem;
   font-weight: 800;
   letter-spacing: 0.01em;
 }
 
 .site-title {
   display: inline-block; /* required for skew */
-  transform: skewX(-12deg);
+  transform: skewX(-30deg);
 }
 
 /* Tray badges */
