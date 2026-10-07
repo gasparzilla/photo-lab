@@ -11,7 +11,7 @@ Instructions for enlarging photos!
 Before starting the process, you must be sure to prepare the room:
 
 1. **Light leaks:** turn off the lights inside the dark room and close de door, check if any light is coming through the window or the door and cover any light leaks coming from outside. If everything seems ok, turn the lights back on and continue.
-2. **Check materials:** make sure everything is in order inside the room, and everything you need is accessible. General sanity check includes: _trays, tweezers, paper, chemicals, negatives, filters, micro focuser, timer, safelight, <span style="color: #14b347;">little green dude in the corner</span>_.
+2. **Materials:** make sure everything is in order inside the room, and everything you need is accessible. General sanity check includes: _trays, tweezers, paper, chemicals, negatives, filters, micro focuser, timer, safelight, <span style="color: #14b347;">little green dude in the corner</span>_.
 3. **Chemicals:** prepare the necessary chemicals: only <span class="tray tray-red">developer</span> if you are testing the process, <span class="tray tray-red">developer</span>, <span class="tray tray-gray">stop bath</span> and <span class="tray tray-white">fixer</span> for permanent prints. Always pour the chemicals in their corresponding trays to avoid cross contamination.
     
     - <span class="tray tray-red">Developer:</span> the developer always goes into the <span class="tray tray-red">red tray</span>
@@ -24,6 +24,7 @@ Before starting the process, you must be sure to prepare the room:
    - **ILFORD**: follow the instructions available in the [Chemistry/ILFORD](/photo-lab/chemistry/#ilford) page.
 
 4. **Tweezers**: place the corresponding <span class="tray tray-red">color</span> <span class="tray tray-gray">coded</span> <span class="tray tray-white">tweezers</span> in their spot on each tray.
+5. **Drying cable**: remove old images from the drying cable and make sure you have enough photo holders clipped on the cable.
 
 ### Preparing the enlarger
 
@@ -36,13 +37,17 @@ Preparing the enlarger and everything around it
 
 ### Engorgulating
 
+<span style="color: #cf3123;">_Procedures still under development!!!!._</span>
+
 #### ContactsSheet
 
-<span style="color: #14b347;">This process has not been tested, we need a small suqre piece of glass to flatten the negatives against the paper. Instructions found on https://www.ilfordphoto.com/making-a-contact-sheet/ seem sensible.</span>_
+<span style="color: #cf3123;">_This process has not been tested, we need a small square piece of glass to flatten the negatives against the paper. Instructions found on https://www.ilfordphoto.com/making-a-contact-sheet/ seem sensible._</span>
 
 #### Test strip
 
-Once the negative you will enlarge has been selected, 
+Once the negative you will enlarge has been selected, we can finally begin the enlarging process.
+
+1. **Focus and framing:**
 
 #### The real deal
 
