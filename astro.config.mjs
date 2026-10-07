@@ -11,12 +11,12 @@ export default defineConfig({
     starlight({
       title: 'Photo Lab',
       plugins: [lucode()],
-        customCss: [
-            '@fontsource/instrument-serif/400.css',
-            './src/styles/custom.css',
-        ],
+      customCss: [
+        '@fontsource/instrument-serif/400.css',
+        './src/styles/custom.css',
+      ],
       sidebar: [
-        { label: 'Darkroom', items: [{ label: 'Chemistry', slug: 'chemistry' },{ label: 'Using the Enlarger', slug: 'enlarger' }] },
+        { label: 'Darkroom Tutorials', items: [{ label: 'Chemistry', slug: 'chemistry' },{ label: 'Using the Enlarger', slug: 'enlarger' }] },
         { label: 'Equipment', items: [{ label: 'Inventory', slug: 'inventory' }] },
       ],
     }),
